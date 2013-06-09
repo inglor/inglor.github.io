@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title:  Κάισσα Ηλιούπολης
+tagline: Αγησιλάλου 55, 16346 Αθήνα
 ---
 {% include JB/setup %}
 
